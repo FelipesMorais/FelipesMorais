@@ -1,20 +1,19 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-<center>![GIF](https://i.gifer.com/origin/86/86ef84ebf9afe82f178a3f2288c71212_w200.gif)
+ 
+![GIF](https://i.gifer.com/origin/86/86ef84ebf9afe82f178a3f2288c71212_w200.gif)
 -------
 
 🚶 Felipe Morais <br>
 🚑 Sou Enfermeiro especialista em ❤️ <br>
-Estou em transição de profissão
+🚀 Estou em transição de profissão
 
 
 
 
 ### Minhas Tecnologias em Formação
 
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px">
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px">
 
 
 
