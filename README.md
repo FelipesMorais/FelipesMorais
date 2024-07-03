@@ -1,6 +1,10 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
 ![GIF](https://i.gifer.com/origin/86/86ef84ebf9afe82f178a3f2288c71212_w200.gif)
+-------
+
+### Minhas Tecnologias
+![Pyton](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
 
 
 
