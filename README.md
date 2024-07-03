@@ -1,4 +1,17 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
+
+![GIF](https://i.gifer.com/origin/86/86ef84ebf9afe82f178a3f2288c71212_w200.gif)
+
+
+
+
+
+
+
+
+
+<!--
+<center><h2> Sejam Bem-Vindos ao Meu Mundo! </h2></center>
 
 # Titulo 01
 ## Titulo 02
@@ -7,9 +20,6 @@
 ##### Titulo 05
 ###### Titulo 06
 
-
-
-<!-- Cabeçalhos-->
 *italico* ou _italico_
 
 **Negrito** ou __negrito__
@@ -41,7 +51,8 @@ ___negrito e italico___
 |texto 3      | Texto 4     |
 
 - [x] Tarefa 01
-- [ ] Tarefa 02
+- [ ] Tarefa 02 
+-->
 
 
 
